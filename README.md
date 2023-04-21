@@ -1,6 +1,6 @@
-# image_body1
+
 <div align="center">
-    <img src="badan2.png">
+    <img src="20230420_132157.png">
 </div>
 
 ```
